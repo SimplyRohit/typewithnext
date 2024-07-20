@@ -1,0 +1,22 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "bye"
+    },
+    {
+      "id": 3,
+      "title": "ashuidfguibdsa"
+    }
+  ],
+
+  "dashboard": {
+    "id": 1,
+    "name": "rohit",
+    "age": 25
+  }
+}
