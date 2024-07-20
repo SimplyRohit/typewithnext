@@ -18,5 +18,58 @@
     "id": 1,
     "name": "rohit",
     "age": 25
-  }
+  },
+
+  "events": [
+    {
+      "date": "2024-07-20",
+      "category": "Technology",
+      "description": "Tech Innovators Conference 2024"
+    },
+    {
+      "date": "2024-08-15",
+      "category": "Sports",
+      "description": "Annual Marathon Event"
+    },
+    {
+      "date": "2024-09-05",
+      "category": "Food",
+      "description": "Gourmet Food Festival"
+    },
+    {
+      "date": "2024-10-12",
+      "category": "Technology",
+      "description": "Frontend Developers Meetup"
+    },
+    {
+      "date": "2024-11-01",
+      "category": "Sports",
+      "description": "City Basketball Tournament"
+    },
+    {
+      "date": "2024-11-20",
+      "category": "Food",
+      "description": "International Food Expo"
+    },
+    {
+      "date": "2024-12-10",
+      "category": "Technology",
+      "description": "Cloud Computing Trends Seminar"
+    },
+    {
+      "date": "2025-01-05",
+      "category": "Sports",
+      "description": "Winter Sports Clinic"
+    },
+    {
+      "date": "2025-02-14",
+      "category": "Food",
+      "description": "Valentine's Day Cooking Workshop"
+    },
+    {
+      "date": "2025-03-22",
+      "category": "Technology",
+      "description": "JavaScript Enthusiasts Gathering"
+    }
+  ]
 }
